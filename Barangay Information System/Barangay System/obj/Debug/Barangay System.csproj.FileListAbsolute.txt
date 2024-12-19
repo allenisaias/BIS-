@@ -1,0 +1,40 @@
+D:\SYSTEM\Barangay System\Barangay System\bin\Debug\Barangay System.exe.config
+D:\SYSTEM\Barangay System\Barangay System\bin\Debug\Barangay System.exe
+D:\SYSTEM\Barangay System\Barangay System\bin\Debug\Barangay System.pdb
+D:\SYSTEM\Barangay System\Barangay System\obj\Debug\Barangay System.csproj.AssemblyReference.cache
+D:\SYSTEM\Barangay System\Barangay System\obj\Debug\Barangay_System.Properties.Resources.resources
+D:\SYSTEM\Barangay System\Barangay System\obj\Debug\Barangay System.csproj.GenerateResource.cache
+D:\SYSTEM\Barangay System\Barangay System\obj\Debug\Barangay System.csproj.CoreCompileInputs.cache
+D:\SYSTEM\Barangay System\Barangay System\obj\Debug\Barangay System.exe
+D:\SYSTEM\Barangay System\Barangay System\obj\Debug\Barangay System.pdb
+D:\SYSTEM\Barangay System\Barangay System\obj\Debug\Barangay_System.LoginForm.resources
+D:\SYSTEM\Barangay System\Barangay System\obj\Debug\Barangay_System.Form2.resources
+D:\SYSTEM\Barangay System\Barangay System\bin\Debug\MetroFramework.Design.dll
+D:\SYSTEM\Barangay System\Barangay System\bin\Debug\MetroFramework.dll
+D:\SYSTEM\Barangay System\Barangay System\bin\Debug\MetroFramework.Fonts.dll
+D:\SYSTEM\Barangay System\Barangay System\obj\Debug\Barangay.CD628E5E.Up2Date
+D:\SYSTEM\Barangay System\Barangay System\obj\Debug\Barangay_System.frmMaintenance.resources
+D:\SYSTEM\Barangay System\Barangay System\obj\Debug\Barangay_System.frmOfficials.resources
+D:\SYSTEM\Barangay System\Barangay System\obj\Debug\Barangay_System.dashboard.resources
+D:\Barangay System11111\Barangay System\bin\Debug\Barangay System.exe.config
+D:\Barangay System11111\Barangay System\bin\Debug\Barangay System.exe
+D:\Barangay System11111\Barangay System\bin\Debug\Barangay System.pdb
+D:\Barangay System11111\Barangay System\bin\Debug\MetroFramework.Design.dll
+D:\Barangay System11111\Barangay System\bin\Debug\MetroFramework.dll
+D:\Barangay System11111\Barangay System\bin\Debug\MetroFramework.Fonts.dll
+D:\Barangay System11111\Barangay System\obj\Debug\Barangay System.csproj.AssemblyReference.cache
+D:\Barangay System11111\Barangay System\obj\Debug\Barangay_System.dashboard.resources
+D:\Barangay System11111\Barangay System\obj\Debug\Barangay_System.LoginForm.resources
+D:\Barangay System11111\Barangay System\obj\Debug\Barangay_System.Form2.resources
+D:\Barangay System11111\Barangay System\obj\Debug\Barangay_System.frmMaintenance.resources
+D:\Barangay System11111\Barangay System\obj\Debug\Barangay_System.frmOfficials.resources
+D:\Barangay System11111\Barangay System\obj\Debug\Barangay_System.Properties.Resources.resources
+D:\Barangay System11111\Barangay System\obj\Debug\Barangay System.csproj.GenerateResource.cache
+D:\Barangay System11111\Barangay System\obj\Debug\Barangay System.csproj.CoreCompileInputs.cache
+D:\Barangay System11111\Barangay System\obj\Debug\Barangay.CD628E5E.Up2Date
+D:\Barangay System11111\Barangay System\obj\Debug\Barangay System.exe
+D:\Barangay System11111\Barangay System\obj\Debug\Barangay System.pdb
+D:\Barangay System11111\Barangay System\obj\Debug\Barangay_System.resident.resources
+D:\Barangay System11111\Barangay System\obj\Debug\Barangay_System.addresidentcs.resources
+D:\Barangay System11111\Barangay System\obj\Debug\Barangay_System.report.resources
+D:\Barangay System11111\Barangay System\obj\Debug\Barangay_System.addreport.resources

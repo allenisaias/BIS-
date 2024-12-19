@@ -1,0 +1,9 @@
+D:\Barangay System11111\Barangay System\obj\Release\Barangay System.csproj.AssemblyReference.cache
+D:\Barangay System11111\Barangay System\obj\Release\Barangay_System.dashboard.resources
+D:\Barangay System11111\Barangay System\obj\Release\Barangay_System.LoginForm.resources
+D:\Barangay System11111\Barangay System\obj\Release\Barangay_System.Form2.resources
+D:\Barangay System11111\Barangay System\obj\Release\Barangay_System.frmMaintenance.resources
+D:\Barangay System11111\Barangay System\obj\Release\Barangay_System.frmOfficials.resources
+D:\Barangay System11111\Barangay System\obj\Release\Barangay_System.Properties.Resources.resources
+D:\Barangay System11111\Barangay System\obj\Release\Barangay System.csproj.GenerateResource.cache
+D:\Barangay System11111\Barangay System\obj\Release\Barangay System.csproj.CoreCompileInputs.cache
